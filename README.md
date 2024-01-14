@@ -16,7 +16,7 @@ sudo apt-get install libxtst-dev
 
 ### 1. Download:
 ```
-https://github.com/DuperDuperLoL/AidenTae.git
+git clone https://github.com/DuperDuperLoL/AidenTae.git
 ```
 
 ### 2. Get inside the folder
