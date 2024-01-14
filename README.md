@@ -21,7 +21,7 @@ https://github.com/DuperDuperLoL/AidenTae.git
 
 ### 2. Get inside the folder
 ```
-cd nika-reloaded
+cd AidenTae
 ```
 
 ### 3. Compile the program:
